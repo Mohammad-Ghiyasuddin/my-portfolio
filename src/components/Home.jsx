@@ -13,9 +13,9 @@ const Home = () => {
                     I'm a Web Developer
                 </h2>
                 <p className="text-gray-500 py-4 mx-w-md">
-                    I am Fresher .And i love to work on Web application
+                    Development Enthusiats, i love to work on Web application
                      using technologies like  React, Bootstrap, Tailwind,
-                    Node JS and Express js.  
+                    Node JS and Express js .  
                 </p>
 
                 <div>
