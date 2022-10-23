@@ -9,7 +9,7 @@ const About = () => {
             <div className="pb-8">
                <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
             </div>
-            <p className="text-xl mt-20">I am Mohammad Ghiyasuddin a third year undergraduate
+            <p className="text-xl mt-20">I am Mohammad Ghiyasuddin a second year undergraduate
                 CSE student in Motihari College Of Engineering Motihari.
                 I am Passionate towards working in developer field and Cloud Enthusiasts ,i love 
                 to work in technology like CSS, Bootstrap, Tailwind, Javascript,
