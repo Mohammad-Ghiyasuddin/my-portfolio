@@ -11,16 +11,16 @@ const About = () => {
             </div>
             <p className="text-xl mt-20">I am Mohammad Ghiyasuddin a third year undergraduate
                 CSE student in Motihari College Of Engineering Motihari.
-                I am Passionate towards working in developer field ,i love 
+                I am Passionate towards working in developer field and Cloud Enthusiasts ,i love 
                 to work in technology like CSS, Bootstrap, Tailwind, Javascript,
                 API, React, Git Github, AWS AND Google Cloud.
             </p>
             <br/>
 
             <p className="text-xl">
-              I have also a community of google crowdsource in which i am the lead person
-              of the community and i am also working in creating videos of tech programme 
-              and coding on YouTube (2.3k+ subs).
+              I am also a working in community building of google crowdsource 
+              and i love to creating videos .I have a YouTube Channel also where 
+               i make videos of tech programme and coding (2.3k+ subs).
             </p>
         </div>
     </div>
