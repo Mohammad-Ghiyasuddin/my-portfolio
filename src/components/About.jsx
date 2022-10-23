@@ -19,8 +19,8 @@ const About = () => {
 
             <p className="text-xl">
               I am also a working in community building of google crowdsource 
-              and i love to creating videos .I have a YouTube Channel also where 
-               i make videos of tech programme and coding (2.3k+ subs).
+              and i love to creating videos .I have a YouTube Channel where i
+              make videos of tech programme and coding (2.4k+ subs).
             </p>
         </div>
     </div>
