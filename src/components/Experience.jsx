@@ -1,6 +1,6 @@
 import React from "react" ;
 
-import html from '../assest/html.png' ;
+import linux from '../assest/linux.png' ;
 import css from '../assest/css.png';
 import bootstrap from '../assest/bootstrap.png';
 import tailwind from '../assest/tailwind.png' ;
@@ -16,8 +16,8 @@ const Experience = () => {
 
                  {
                     id:1,
-                    src:html,
-                    title:'HTML',
+                    src:linux,
+                    title:'Linux',
                     style: 'shadow-orange-500'
                  },
                  {
