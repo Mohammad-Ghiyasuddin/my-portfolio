@@ -22,14 +22,14 @@ const Experience = () => {
                  },
                  {
                     id:2,
-                    src:cicd,
-                    title:'CI/CD',
-                    style: 'shadow-blue-400'
+                    src:docker,
+                    title:'Docker',
+                    style: 'shadow-blue-500'
                  },
                  {
                     id:3,
-                    src:docker,
-                    title:'Docker',
+                    src:cicd,
+                    title:'CI/CD',
                     style: 'shadow-blue-500'
                  },
                  {
