@@ -2,7 +2,7 @@ import React from "react";
 import qrcodeScanner from '../assest/portfolio/qrcodeScanner.jpg';
 import vmmig from '../assest/portfolio/vmmig.png';
 import shopsite from '../assest/portfolio/shopsite.jpg';
-import monitoring from '../assest/portfolio/monitoring.jpg';
+import monitoring from '../assest/portfolio/monitoring.png';
 import loginform from '../assest/portfolio/loginform.jpg';
 import webZoo from '../assest/portfolio/webZoo.jpg';
 
