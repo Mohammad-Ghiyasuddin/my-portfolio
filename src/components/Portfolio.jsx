@@ -1,6 +1,6 @@
 import React from "react";
 import qrcodeScanner from '../assest/portfolio/qrcodeScanner.jpg';
-import cssmySite from '../assest/portfolio/cssmySite.jpg';
+import vmmig from '../assest/portfolio/vmmig.png';
 import shopsite from '../assest/portfolio/shopsite.jpg';
 import styleform from '../assest/portfolio/styleform.jpg';
 import loginform from '../assest/portfolio/loginform.jpg';
@@ -18,7 +18,7 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src:cssmySite ,
+            src:vmmig ,
 
         },
         {
