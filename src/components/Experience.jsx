@@ -24,7 +24,7 @@ const Experience = () => {
                     id:2,
                     src:cicd,
                     title:'CI/CD',
-                    style: 'shadow-blue-600'
+                    style: 'shadow-blue-400'
                  },
                  {
                     id:3,
