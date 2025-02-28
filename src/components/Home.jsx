@@ -10,12 +10,12 @@ const Home = () => {
           items-center justify-center h-full px-4 md:flex-row">
              <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                    I'm a Web Developer
+                    A DevOps Engineer
                 </h2>
                 <p className="text-gray-500 py-4 mx-w-md">
-                    Development Enthusiats, i love to work on Web application
-                     using technologies like  React, Bootstrap, Tailwind,
-                    Node JS and Express js .  
+                    Hustling with CI/CD, Cleaning unnecessary cloud cost,
+                    Monitoring fine tuning metrics for no downtime and crash,
+                    Saving a day by doing automation on server with optimized database.  
                 </p>
 
                 <div>

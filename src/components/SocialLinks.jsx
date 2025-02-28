@@ -16,7 +16,7 @@ const SocialLinks = () => {
                </>
 
               ),
-              href: 'https://linkedin.com',
+              href: 'https://www.linkedin.com/in/ghiyas/',
               style: 'rounded-tr-md'         
            },
            {
@@ -40,7 +40,7 @@ const SocialLinks = () => {
              </>
 
                     ),
-              href: 'mailto:personalcode95@gmail.com',
+              href: 'mailto:mohammadgayasuddin2003@gmail.com',
                       
            },
           {
