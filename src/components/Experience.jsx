@@ -5,8 +5,8 @@ import cicd from '../assest/cicd.png';
 import docker from '../assest/docker.png';
 import prometheus from '../assest/prometheus.png' ;
 import grafana from '../assest/grafana.png';
-import react from '../assest/react.png';
-import code  from '../assest/c++.png' ;
+import mysql from '../assest/mysql.png';
+import python  from '../assest/python.png' ;
 import aws from '../assest/aws.png';
 import gcp from '../assest/gcp.png';
 
@@ -24,7 +24,7 @@ const Experience = () => {
                     id:2,
                     src:cicd,
                     title:'CI/CD',
-                    style: 'shadow-blue-500'
+                    style: 'shadow-blue-600'
                  },
                  {
                     id:3,
@@ -47,8 +47,8 @@ const Experience = () => {
                  
                  {
                   id:6,
-                  src:react,
-                  title:'React',
+                  src:mysql,
+                  title:'MySql',
                   style: 'shadow-blue-600'
                },
                  {
@@ -65,8 +65,8 @@ const Experience = () => {
                  },
                  {
                     id:9,
-                    src:code,
-                    title:'C++',
+                    src:python,
+                    title:'Python',
                     style: 'shadow-blue-500'
                  },
                 
