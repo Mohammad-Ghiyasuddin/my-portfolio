@@ -1,10 +1,10 @@
 import React from "react" ;
 
 import linux from '../assest/linux.png' ;
-import css from '../assest/css.png';
-import bootstrap from '../assest/bootstrap.png';
-import tailwind from '../assest/tailwind.png' ;
-import javascript from '../assest/javascript.png';
+import cicd from '../assest/cicd.png';
+import docker from '../assest/docker.png';
+import prometheus from '../assest/prometheus.png' ;
+import grafana from '../assest/grafana.png';
 import react from '../assest/react.png';
 import code  from '../assest/c++.png' ;
 import aws from '../assest/aws.png';
@@ -22,26 +22,26 @@ const Experience = () => {
                  },
                  {
                     id:2,
-                    src:css,
-                    title:'css',
+                    src:cicd,
+                    title:'CI/CD',
                     style: 'shadow-blue-500'
                  },
                  {
                     id:3,
-                    src:bootstrap,
-                    title:'Bootstrap',
+                    src:docker,
+                    title:'Docker',
                     style: 'shadow-blue-500'
                  },
                  {
                     id:4,
-                    src:tailwind,
-                    title:'Tailwind',
+                    src:prometheus,
+                    title:'Prometheus',
                     style: 'shadow-sky-400'
                  },
                  {
                     id:5,
-                    src:javascript,
-                    title:'Javascript',
+                    src:grafana,
+                    title:'Grafana',
                     style: 'shadow-yellow-500'
                  },
                  
